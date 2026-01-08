@@ -72,6 +72,16 @@ npx expo start
 
 ## 📱 Screenshots
 
+<p align="center">
+  <img src="./screenshots/auth.png" width="200" alt="Authentication"/>
+  <img src="./screenshots/home.png" width="200" alt="Home"/>
+  <img src="./screenshots/task.png" width="200" alt="Task"/>
+</p>
+
+<p align="center">
+  <img src="./screenshots/attandance.png" width="200" alt="Attendance"/>
+  <img src="./screenshots/mess.png" width="200" alt="Messages"/>
+</p>
 
 ## 🔧 Environment Variables
 
