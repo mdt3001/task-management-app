@@ -20,8 +20,8 @@ A full-stack mobile application for task and attendance management built with Re
 
 ### Backend
 - **Node.js** - Runtime environment
-- **Express.js** - Web framework
-- **MongoDB/MySQL** - Database (based on your setup)
+- **Express.js** - Javascript framework
+- **MongoDB** - Database
 - **JWT** - Authentication tokens
 
 ## 📁 Project Structure
