@@ -84,7 +84,7 @@ npx expo start
 </p>
 
 ## 📺 Demo Video
-Bạn có thể xem video mô tả hoạt động của ứng dụng tại đây: [YouTube Video Demo](https://youtu.be/hr6ULvwxRos?si=gjq1jxNBIDokObxs)
+You can watch the full walk-through of the application here: [YouTube Video Demo](https://youtu.be/hr6ULvwxRos?si=gjq1jxNBIDokObxs)
 
 ## 🔧 Environment Variables
 
